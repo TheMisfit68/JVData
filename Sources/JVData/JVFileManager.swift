@@ -1,12 +1,12 @@
-    //
-    //  JVFileManager.swift.swift
-    //
-    //
-    //  Created by Jan Verrept on 26/12/2019.
-    //
+//
+//  JVFileManager.swift.swift
+//
+//
+//  Created by Jan Verrept on 26/12/2019.
+//
 import Foundation
 import OSLog
-
+import JVSwiftCore
 
 public extension FileManager{
     
